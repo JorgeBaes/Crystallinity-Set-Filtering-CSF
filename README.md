@@ -132,5 +132,5 @@ MIT License
 If you use this method in your research, please cite:
 
 ```
-Caetano, J. B. (2026). Crystallinity-Set Filtering (CSF) for polymer blend quantification.
+CAETANO, Jorge B.; AGNELLI, José A. M.; STAFFA, Lucas H. A Calibration-Free Compositional Analysis of Binary Polymer Blends via DSC: The Crystallinity-Set Filtering (CSF) Method. Thermochimica Acta, p. 180493, set. 2026.
 ```
